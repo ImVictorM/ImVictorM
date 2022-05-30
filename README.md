@@ -2,6 +2,6 @@
   
 - 👋 Meu nome é Victor Figueiredo
 - 📖 Sou estudante de tecnologia e desenvolvimento
-- ✨ minhas linguagens preferidas são Python, Javascript e MySQL
+- ✨ No momento, estou estudando Python, Javascript e MySQL
 - 🎮 Amante de games
 - 🧑 pronomes: ele/dele
