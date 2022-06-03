@@ -5,3 +5,5 @@
 - ✨ No momento, estou estudando Python, Java e MySQL
 - 🎮 Amante de games
 - 🧑 pronomes: ele/dele
+
+Meu [Linkedin](https://www.linkedin.com/in/victor-figueiredo-mendes-2251b5206/) 🔷
