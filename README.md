@@ -2,8 +2,9 @@
   
 - 👋 Eu sou o Victor (AKA Vitor)
 - 📖 Sou estudante de Análise e Desenvolvimento de Sistemas e curso Desenvolvimento Web na Trybe =)
-- ✨ No momento, estou estudando Python, Java e MySQL
 - 🎮 Amante de games
 - 🧑 pronomes: ele/dele
 
-Meu [Linkedin](https://www.linkedin.com/in/victor-figueiredo-mendes-2251b5206/) 🔷
+[Linkedin](https://www.linkedin.com/in/victor-figueiredo-mendes-2251b5206/) 🔷 <br>
+[Steam](https://steamcommunity.com/profiles/76561198315911973) ![steam](https://user-images.githubusercontent.com/89158450/185807249-b04b28b0-9e85-41f0-a26b-39c129e669e3.png)
+
