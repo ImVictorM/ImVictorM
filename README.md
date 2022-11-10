@@ -5,4 +5,7 @@
 - 🎮 Amante de games
 - 🧑 pronomes: ele/dele
 
-[Linkedin](https://www.linkedin.com/in/victor-figueiredo-mendes/) 🔷 <br>
+<a href="https://www.linkedin.com/in/victor-figueiredo-mendes/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
