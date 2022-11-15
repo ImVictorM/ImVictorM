@@ -1,9 +1,9 @@
- <h1>Olá !! Seja bem vindo(a) ao meu perfil</h1>
+ <h1>Hello, welcome to my profile !!</h1>
   
-- 👋 Eu sou o Victor (AKA Vitor)
-- 📖 Sou estudante de Análise e Desenvolvimento de Sistemas e curso Desenvolvimento Web na Trybe =)
-- 🎮 Amante de games
-- 🧑 pronomes: ele/dele
+- 👋 My name is Victor
+- 📖 I'm a Web Developer student
+- 🎮 I love praying games
+- 🧑 pronouns: he/his/him 
 
 <section>
   <h2> :busts_in_silhouette: Connect with me </h2> 
