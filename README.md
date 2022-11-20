@@ -2,13 +2,12 @@
 <em>~ It's a pleasure to have you here!! ~</em>
 
 <br>
-<br>
  
 <div>
   <h2>:book: About me </h2>
    <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="120" align="right"/>
   <p align="left">
-    My name is Victor, I'm a Web Development student from Brazil. I was born and live in Limeira, São Paulo. I love technology and the good you can do with it, especially when it comes to accessibility. My desire to be a developer came from a friend who I admire a lot and who taught me that not every job needs to be annoying. I consider myself a calm person and I don't like unnecessary conflict. I like going out with friends on weekends to play eight-ball. A dream I want to realize is to travel around the world someday to learn from other people new cultures and ways to live life.
+    My name is Victor, I'm a Web Development student from Brazil. I was born and live in Limeira, São Paulo. I love technology and the good you can do with it, especially when it comes to accessibility. My desire to be a developer came from a friend who I admire a lot and who taught me that not every job needs to be annoying. I consider myself a calm person and I don't like unnecessary conflict. I like going out with friends on weekends to play snooker. A dream I want to realize is to travel around the world someday to learn from other people new cultures and ways to live life.
   </p>
 </div>
 
@@ -19,7 +18,7 @@
 - 🎮 I love praying games
 - 🧑 pronouns: he/his/him 
 
-<h2>My Stats</h2>
+<h2>:stars: My Stats</h2>
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ImVictorM&show_icons=true&theme=radical" 
@@ -30,7 +29,138 @@
     height="157px" 
     width="400px" 
   />
- </div>
+</div>
+
+<div>
+  <h2>:books: Knowledge</h2>
+  <table align="center">
+    <thead>
+      <tr>
+        <th>Languages</th>
+        <th>Front-End</th>
+        <th>Style</th>
+        <th>Back-End</th>
+        <th>Tests</th>
+        <th>Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+                alt="javascript" 
+                width="40" 
+                height="40"
+              /> 
+           </a>
+           <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
+                alt="typescript" 
+                width="40" 
+                height="40"
+             /> 
+           </a>
+        </td>
+        <td>
+           <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
+                alt="html5" 
+                width="40" 
+                height="40"
+             /> 
+           </a>
+           <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
+                alt="react" 
+                width="40" 
+                height="40"
+             /> 
+           </a>
+           <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
+                alt="redux" 
+                width="40" 
+                height="40"
+             /> 
+           </a>
+        </td>
+        <td>
+           <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+             <img 
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
+                alt="bootstrap" 
+                width="40" 
+                height="40"
+             /> 
+           </a>
+           <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+                alt="css3" 
+                width="40" 
+                height="40"
+             /> 
+           </a>
+        </td>
+        <td>
+           <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
+                alt="docker" 
+                width="40" 
+                height="40"
+             /> 
+           </a>
+           <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
+                alt="mysql" 
+                width="40" 
+                height="40"
+             /> 
+           </a>
+           <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
+                alt="nodejs" 
+                width="40" 
+                height="40"
+             /> 
+           </a>
+        </td>
+        <td>
+           <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+             <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" 
+                alt="jest" 
+                width="40" 
+                height="40"
+             /> 
+           </a>
+           <a href="https://testing-library.com/docs/" target="_blank" rel="noreferrer">
+             <img src="https://testing-library.com/img/octopus-128x128.png"
+                alt="rtl"
+                width="40"
+                height="40"
+             />
+           </a>
+        </td>
+        <td>
+           <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+                alt="git"
+                width="40"
+                height="40"
+             /> 
+           </a>
+           <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
+                alt="linux" 
+                width="40" 
+                height="40"
+             /> 
+           </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <section>
   <h2> :busts_in_silhouette: Connect with me </h2> 
