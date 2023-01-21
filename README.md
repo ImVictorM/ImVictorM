@@ -46,7 +46,7 @@
         </thead>
         <tbody>
             <tr>
-                <td>
+                <td align="center">
                     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
                         <img 
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
@@ -64,7 +64,7 @@
                         /> 
                     </a>
                 </td>
-                <td>
+                <td align="center">
                     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
                         <img 
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
@@ -90,7 +90,7 @@
                        /> 
                    </a>
                 </td>
-                <td>
+                <td align="center">
                     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
                         <img 
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
@@ -108,7 +108,7 @@
                         /> 
                     </a>
                 </td>
-                <td>
+                <td align="center">
                     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
                         <img 
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
@@ -142,7 +142,7 @@
                         /> 
                     </a>
                 </td>
-                <td>
+                <td align="center">
                     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
                         <img 
                             src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" 
@@ -183,7 +183,7 @@
                         /> 
                     </a>
                 </td>
-                <td>
+                <td align="center">
                     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
                         <img 
                             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
