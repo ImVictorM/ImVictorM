@@ -38,7 +38,6 @@
             <tr>
                 <th>Languages</th>
                 <th>Front-End</th>
-                <th>Style</th>
                 <th>Back-End</th>
                 <th>Tests</th>
                 <th>Tools</th>
@@ -89,9 +88,7 @@
                            height="40"
                        /> 
                    </a>
-                </td>
-                <td align="center">
-                    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+                   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
                         <img 
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
                             alt="bootstrap" 
@@ -140,6 +137,14 @@
                             width="40" 
                             height="40"
                         /> 
+                    </a>
+                    <a href="https://sequelize.org/" target="_blank">
+                        <img
+                            src="https://sequelize.org/api/v6/image/brand_logo.png"
+                            alt="sequelize"
+                            width="40"
+                            height="40"
+                        />
                     </a>
                 </td>
                 <td align="center">
@@ -196,6 +201,14 @@
                         <img 
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
                             alt="linux" 
+                            width="40" 
+                            height="40"
+                        /> 
+                    </a>
+                    <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> 
+                        <img 
+                            src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/insomnia/ibTLPyjwVebnZjMGKvz6ztarnuV2" 
+                            alt="insomnia" 
                             width="40" 
                             height="40"
                         /> 
