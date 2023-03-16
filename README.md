@@ -23,11 +23,12 @@
     <img 
         src="https://github-readme-stats.vercel.app/api?username=ImVictorM&show_icons=true&theme=radical&PAT_1" 
         width="400px"
+        height="165px"
     />
     <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImVictorM&langs_count=8&layout=compact&title_color=d83b7d&text_color=a9f6e7&bg_color=141321&hide_border=false&theme=tokyonight&PAT_1"
-        height="157px" 
-        width="400px" 
+        height="165px" 
+        width="350px" 
     />
 </div>
 
