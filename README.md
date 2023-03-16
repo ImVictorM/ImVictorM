@@ -21,11 +21,11 @@
 <h2>:stars: My Stats</h2>
 <div align="center">
     <img 
-        src="https://github-readme-stats.vercel.app/api?username=ImVictorM&show_icons=true&theme=radical" 
-        width="400px" 
+        src="https://github-readme-stats.vercel.app/api?username=ImVictorM&show_icons=true&theme=radical&PAT_1" 
+        width="400px"
     />
     <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImVictorM&langs_count=8&layout=compact&title_color=d83b7d&text_color=a9f6e7&bg_color=141321&hide_border=false&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImVictorM&langs_count=8&layout=compact&title_color=d83b7d&text_color=a9f6e7&bg_color=141321&hide_border=false&theme=tokyonight&PAT_1"
         height="157px" 
         width="400px" 
     />
@@ -39,7 +39,8 @@
                 <th>Languages</th>
                 <th>Front-End</th>
                 <th>Back-End</th>
-                <th>Tests</th>
+                <th>Database</th>
+                <th>Testing</th>
                 <th>Tools</th>
             </tr>
         </thead>
@@ -106,14 +107,6 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-                        <img 
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
-                            alt="docker" 
-                            width="40" 
-                            height="40"
-                        /> 
-                    </a>
                     <a href="https://expressjs.com/" target="_blank">
                         <img
                             src="https://www.orafox.com/wp-content/uploads/2019/01/expressjs.png"
@@ -121,14 +114,6 @@
                             width="40"
                             height="40"
                         />
-                    </a>
-                    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-                        <img 
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-                            alt="mysql" 
-                            width="40" 
-                            height="40"
-                        /> 
                     </a>
                     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
                         <img 
@@ -145,6 +130,24 @@
                             width="40"
                             height="40"
                         />
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+                        <img 
+                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
+                             alt="mongodb" 
+                             width="40" 
+                             height="40"
+                        /> 
+                    </a>
+                     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+                        <img 
+                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
+                            alt="mysql" 
+                            width="40" 
+                            height="40"
+                        /> 
                     </a>
                 </td>
                 <td align="center">
@@ -201,6 +204,14 @@
                         <img 
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
                             alt="linux" 
+                            width="40" 
+                            height="40"
+                        /> 
+                    </a>
+                    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+                        <img 
+                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
+                            alt="docker" 
                             width="40" 
                             height="40"
                         /> 
