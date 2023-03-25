@@ -124,6 +124,14 @@
                             height="40"
                         /> 
                     </a>
+                    <a href="https://mongoosejs.com/" target="_blank">
+                        <img
+                            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"
+                            alt="mongoose"
+                            width="40"
+                            height="40"
+                        />
+                    </a>
                     <a href="https://sequelize.org/" target="_blank">
                         <img
                             src="https://sequelize.org/api/v6/image/brand_logo.png"
