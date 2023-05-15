@@ -245,9 +245,6 @@
         <a href="https://www.linkedin.com/in/victor-figueiredo-mendes/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
-        <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvrcXcmdTLxLXZGJMmpxpfNRRTvTjZSQbgqTCmXrPrfkJlghkvNZLfmxqrkfJbbkfXfGhg">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        <a>
     </div>
     <div align="center">
         <h4><em>~ email ~</em></h4>
