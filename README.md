@@ -21,7 +21,7 @@
 <h2>:stars: My Stats</h2>
 <div align="center">
     <img 
-        src="https://github-readme-stats.vercel.app/api?username=ImVictorM&show_icons=true&theme=radical&PAT_1" 
+        src="https://github-readme-stats.vercel.app/api?username=ImVictorM&show_icons=true&theme=radical&PAT_1&rank_icon=github" 
         width="400px"
         height="165px"
     />
