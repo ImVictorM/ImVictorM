@@ -37,48 +37,48 @@
     <table align="center">
         <thead>
             <tr>
-                <th>Languages</th>
-                <th>Front-End</th>
-                <th>Back-End</th>
-                <th>Database</th>
-                <th>Testing</th>
-                <th>Tools</th>
+                <th width="16.67%">Languages</th>
+                <th width="16.67%">Front-End</th>
+                <th width="16.67%">Back-End</th>
+                <th width="16.67%">Database</th>
+                <th width="16.67%">Testing</th>
+                <th width="16.67%">Tools</th>
             </tr>
         </thead>
         <tbody>
-            <tr>
-                <td align="center">
-					<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px" />
-					<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px" />
-					<img alt="Static Badge" src="https://img.shields.io/badge/csharp-purple?logo=csharp" style="margin-bottom: 4px;" height="30px" />
+            <tr valign="top">
+                <td>
+			<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px" />
+			<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px" />
+			<img alt="Static Badge" src="https://img.shields.io/badge/csharp-purple?style=for-the-badge&logo=csharp" style="margin-bottom: 4px;" height="30px" />
                 </td>
-                <td align="center">
-                    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px"/>
-                    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
-                	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
-					<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
+                <td>
+                	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px"/>
+                    	<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
+                    	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
+		    	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
                 </td>
-                <td align="center">
-                    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px"/>
-                    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
-                    <img alt="Static Badge" src="https://img.shields.io/badge/sequelize-white?logo=sequelize" style="margin-bottom: 4px;" height="30px"/>
-					<img alt="Static Badge" src="https://img.shields.io/badge/dotnet-purple?logo=dotnet" style="margin-bottom: 4px;" height="30px"/>
-					<img alt="Static Badge" src="https://img.shields.io/badge/Entity%20Framework%20-%20purple?logo=amazonredshift&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
+                <td>
+                	<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px"/>
+                    	<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
+                   	<img alt="Static Badge" src="https://img.shields.io/badge/sequelize-white?style=for-the-badge&logo=sequelize" style="margin-bottom: 4px;" height="30px"/>
+			<img alt="Static Badge" src="https://img.shields.io/badge/dotnet-purple?style=for-the-badge&logo=dotnet" style="margin-bottom: 4px;" height="30px"/>
+			<img alt="Static Badge" src="https://img.shields.io/badge/Entity%20Framework%20-%20purple?style=for-the-badge&logo=amazonredshift&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
                 </td>
-                <td align="center">
-                	<img alt="Static Badge" src="https://img.shields.io/badge/SQL%20Server-%23CC2927?logo=microsoftsqlserver" style="margin-bottom: 4px;" height="30px"/>
-                    <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white"/>
-					<img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
+                <td>
+                	<img alt="Static Badge" src="https://img.shields.io/badge/SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver" style="margin-bottom: 4px;" height="30px"/>
+                        <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+			<img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
                 </td>
-                <td align="center">
-                    <img alt="Stat" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" style="margin-bottom: 4px;" height="30px">
-                    <img alt="Static Badge" src="https://img.shields.io/badge/React%20Testing%20Library-%23E33332?logo=testinglibrary&logoColor=white" style="margin-bottom: 4px;" height="30px">
-					<img alt="Static Badge" src="https://img.shields.io/badge/xUnit-black?logoColor=white">
+                <td>
+                    	<img alt="Stat" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" style="margin-bottom: 4px;" height="30px">
+                    	<img alt="Static Badge" src="https://img.shields.io/badge/Testing%20Library-%23E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" style="margin-bottom: 4px;" height="30px">
+			<img alt="Static Badge" src="https://img.shields.io/badge/xUnit-black?style=for-the-badge&logoColor=white">
                 </td>
-                <td align="center">
-                    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-					<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
-                    <img alt="Static Badge" src="https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white" style="margin-bottom: 4px;" height="30px">
+                <td>
+                    	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+			<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
+                    	<img alt="Static Badge" src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" style="margin-bottom: 4px;" height="30px">
                 </td>
             </tr>
         </tbody>
@@ -86,16 +86,12 @@
 </div>
 
 <section>
-    <h2> :busts_in_silhouette: Social </h2>
-    <div align="center">
-        <a href="https://www.linkedin.com/in/victor-figueiredo-mendes/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-    </div>
-    <div align="center">
-        <h4><em>~ email ~</em></h4>
-        <span>
-            victorutdsim7@gmail.com
-        </span>
-    </div>
+    <h2>:busts_in_silhouette: Social </h2>
+	<a href="https://www.linkedin.com/in/victor-figueiredo-mendes/" target="_blank">
+		<img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	&nbsp
+	<a href = "mailto:victorutdsim7@gmail.com" target="_blank">
+		<img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
 </section>
