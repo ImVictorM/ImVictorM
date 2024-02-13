@@ -33,7 +33,7 @@
 </div>
 
 <div>
-    <h2>:books: Knowledge</h2>
+    <h2>:books: Main Stacks</h2>
     <table align="center">
         <thead>
             <tr>
@@ -48,191 +48,37 @@
         <tbody>
             <tr>
                 <td align="center">
-                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-                        <img 
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-                            alt="javascript" 
-                            width="40" 
-                            height="40"
-                        /> 
-                    </a>
-                    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-                        <img 
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
-                            alt="typescript" 
-                            width="40" 
-                            height="40"
-                        /> 
-                    </a>
+					<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px" />
+					<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px" />
+					<img alt="Static Badge" src="https://img.shields.io/badge/csharp-purple?logo=csharp" style="margin-bottom: 4px;" height="30px" />
                 </td>
                 <td align="center">
-                    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-                        <img 
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-                            alt="html5" 
-                            width="40" 
-                            height="40"
-                       /> 
-                   </a>
-                   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-                       <img 
-                           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
-                           alt="react" 
-                           width="40" 
-                           height="40"
-                       /> 
-                   </a>
-                   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-                       <img 
-                           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
-                           alt="redux" 
-                           width="40" 
-                           height="40"
-                       /> 
-                   </a>
-                   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-                        <img 
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
-                            alt="bootstrap" 
-                            width="40" 
-                            height="40"
-                        /> 
-                    </a>
-                    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-                        <img 
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-                            alt="css3" 
-                            width="40" 
-                            height="40"
-                        /> 
-                    </a>
+                    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px"/>
+                    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
+                	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
+					<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
                 </td>
                 <td align="center">
-                    <a href="https://expressjs.com/" target="_blank">
-                        <img
-                            src="https://www.orafox.com/wp-content/uploads/2019/01/expressjs.png"
-                            alt="express"
-                            width="40"
-                            height="40"
-                        />
-                    </a>
-                    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-                        <img 
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
-                            alt="nodejs" 
-                            width="40" 
-                            height="40"
-                        /> 
-                    </a>
-                    <a href="https://mongoosejs.com/" target="_blank">
-                        <img
-                            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"
-                            alt="mongoose"
-                            width="40"
-                            height="40"
-                        />
-                    </a>
-                    <a href="https://sequelize.org/" target="_blank">
-                        <img
-                            src="https://sequelize.org/api/v6/image/brand_logo.png"
-                            alt="sequelize"
-                            width="40"
-                            height="40"
-                        />
-                    </a>
+                    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px"/>
+                    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
+                    <img alt="Static Badge" src="https://img.shields.io/badge/sequelize-white?logo=sequelize" style="margin-bottom: 4px;" height="30px"/>
+					<img alt="Static Badge" src="https://img.shields.io/badge/dotnet-purple?logo=dotnet" style="margin-bottom: 4px;" height="30px"/>
+					<img alt="Static Badge" src="https://img.shields.io/badge/Entity%20Framework%20-%20purple?logo=amazonredshift&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
                 </td>
                 <td align="center">
-                    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-                        <img 
-                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
-                             alt="mongodb" 
-                             width="40" 
-                             height="40"
-                        /> 
-                    </a>
-                     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-                        <img 
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-                            alt="mysql" 
-                            width="40" 
-                            height="40"
-                        /> 
-                    </a>
+                	<img alt="Static Badge" src="https://img.shields.io/badge/SQL%20Server-%23CC2927?logo=microsoftsqlserver" style="margin-bottom: 4px;" height="30px"/>
+                    <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white"/>
+					<img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=white" style="margin-bottom: 4px;" height="30px"/>
                 </td>
                 <td align="center">
-                    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-                        <img 
-                            src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" 
-                            alt="jest" 
-                            width="40" 
-                            height="40"
-                        /> 
-                    </a>
-                    <a href="https://testing-library.com/docs/" target="_blank" rel="noreferrer">
-                        <img 
-                            src="https://testing-library.com/img/octopus-128x128.png"
-                            alt="rtl"
-                            width="40"
-                            height="40"
-                        />
-                    </a>
-                    <a href="https://mochajs.org/" target="_blank" rel"noreferrer">
-                        <img
-                            src="https://avatars.githubusercontent.com/u/8770005?s=200&v=4"
-                            alt="mocha-js"
-                            width="40"
-                            height="40"
-                        />
-                    </a>
-                    <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> 
-                        <img src="https://raw.githubusercontent.com/gist/keithamus/3d8cfbaeddf8bdf5f7cd94a3bdae0934/raw/63ca295f3aa7e1b94b598d84dfe0330383497a8c/Chai%20Logo%20(C).svg"
-                            alt="chai-js" 
-                            width="40" 
-                            height="40"
-                        /> 
-                    </a>
-                    <a href="https://sinonjs.org/" target="_blank" rel="noreferrer"> 
-                        <img 
-                            src="https://sinonjs.org/assets/images/logo.png" 
-                            alt="sinon-js" 
-                            width="40" 
-                            height="40"
-                        /> 
-                    </a>
+                    <img alt="Stat" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" style="margin-bottom: 4px;" height="30px">
+                    <img alt="Static Badge" src="https://img.shields.io/badge/React%20Testing%20Library-%23E33332?logo=testinglibrary&logoColor=white" style="margin-bottom: 4px;" height="30px">
+					<img alt="Static Badge" src="https://img.shields.io/badge/xUnit-black?logoColor=white">
                 </td>
                 <td align="center">
-                    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-                        <img 
-                            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-                            alt="git"
-                            width="40"
-                            height="40"
-                        /> 
-                    </a>
-                    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-                        <img 
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-                            alt="linux" 
-                            width="40" 
-                            height="40"
-                        /> 
-                    </a>
-                    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-                        <img 
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
-                            alt="docker" 
-                            width="40" 
-                            height="40"
-                        /> 
-                    </a>
-                    <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> 
-                        <img 
-                            src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/insomnia/ibTLPyjwVebnZjMGKvz6ztarnuV2" 
-                            alt="insomnia" 
-                            width="40" 
-                            height="40"
-                        /> 
-                    </a>
+                    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+					<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
+                    <img alt="Static Badge" src="https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white" style="margin-bottom: 4px;" height="30px">
                 </td>
             </tr>
         </tbody>
@@ -240,7 +86,7 @@
 </div>
 
 <section>
-    <h2> :busts_in_silhouette: Connect with me </h2>
+    <h2> :busts_in_silhouette: Social </h2>
     <div align="center">
         <a href="https://www.linkedin.com/in/victor-figueiredo-mendes/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
