@@ -7,7 +7,7 @@
     <h2>:book: About me </h2>
     <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="120" align="right"/>
     <p align="left">
-    My name is Victor, I'm a Web Development student from Brazil. I was born and live in Limeira, São Paulo. I love technology and the good you can do with it, especially when it comes to accessibility. My desire to be a developer came from a friend who I admire a lot and who taught me that not every job needs to be annoying. I consider myself a calm person and I don't like unnecessary conflict. A dream I want to realize is to travel around the world someday to learn from other people new cultures and ways to live life.
+    My name is Victor, I'm a Software Development from Brazil. I was born and live in Limeira, São Paulo. I love technology and the good you can do with it, especially when it comes to accessibility. My desire to be a developer came from a friend who I admire a lot and who taught me that not every job needs to be annoying. I consider myself a calm person and I don't like unnecessary conflict. A dream I want to realize is to travel around the world someday to learn from other people new cultures and ways to live life.
     </p>
 </div>
 
