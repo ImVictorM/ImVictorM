@@ -5,9 +5,9 @@
     A passionate <strong>Software Developer</strong> from <strong>Brazil</strong> 🇧🇷. <br/>
     I love technology and its potential to make the world more accessible and easy for everyone.
     </p>
-    <div >
-        <h3>✨ A Few Things About Me</h3>
+    <div>
         <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" align="right" style="margin-left: 10px;" width="120px"/>
+        <h3>✨ A Few Things About Me</h3>
         <ul align="left">
             <li>🧑 Pronouns: he/his/him</li>
             <li>🦒 I'm tall</li>
@@ -15,7 +15,6 @@
             <li>🎮 I Love gaming</li>
             <li>🌍 Traveling the world is a lifelong dream of mine</li>
         </ul>
-        <br/>
     </div>
     <div>
         <h2>📚 Knowledge</h2>
@@ -79,11 +78,11 @@
     <div>
         <img 
             src="https://github-readme-stats.vercel.app/api?username=ImVictorM&show_icons=true&theme=radical&PAT_1&rank_icon=github" 
-            style="width: 100%;max-width: 400px;height: 165px;"
+            style="width: 100%;max-width: 350px;height: 165px;margin-right: 10px;"
         />
         <img 
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImVictorM&langs_count=8&layout=compact&title_color=d83b7d&text_color=a9f6e7&bg_color=141321&hide_border=false&theme=tokyonight&PAT_1"
-            style="width: 100%;max-width: 350px;height: 165px;"
+            style="width: 100%;max-width: 230px;height: 165px;"
         />
     </div>
     <section>
