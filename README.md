@@ -1,6 +1,6 @@
 <img src="assets/banner.png" align="center"/>
 
-<div style="width: 100%;max-width: 800px;">
+<div style="width: 100%;max-width: 900px;margin: auto">
     <p>
     A passionate <strong>Software Developer</strong> from <strong>Brazil</strong> 🇧🇷. <br/>
     I love technology and its potential to make the world more accessible and easy for everyone.
